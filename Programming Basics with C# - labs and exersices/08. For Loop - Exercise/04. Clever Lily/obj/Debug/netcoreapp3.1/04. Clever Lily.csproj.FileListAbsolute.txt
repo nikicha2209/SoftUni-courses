@@ -1,0 +1,14 @@
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache

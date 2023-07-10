@@ -1,0 +1,14 @@
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.AssemblyReference.cache
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+D:\visual studio projects\softuni\basics\P01 - първи стъпки в програмирането\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

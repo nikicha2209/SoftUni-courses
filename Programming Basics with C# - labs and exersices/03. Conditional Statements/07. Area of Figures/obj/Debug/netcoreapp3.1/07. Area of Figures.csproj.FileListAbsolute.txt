@@ -1,0 +1,14 @@
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.exe
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.deps.json
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.json
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.dev.json
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.dll
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.pdb
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.AssemblyReference.cache
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfoInputs.cache
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfo.cs
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.CoreCompileInputs.cache
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.dll
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.pdb
+D:\visual studio projects\softuni\basics\P03 - проверки\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.genruntimeconfig.cache

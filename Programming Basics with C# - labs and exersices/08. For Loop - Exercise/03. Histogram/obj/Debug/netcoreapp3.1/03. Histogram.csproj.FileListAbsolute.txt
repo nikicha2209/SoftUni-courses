@@ -1,0 +1,14 @@
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.AssemblyReference.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\visual studio projects\softuni\basics\P08 - for цикъл (упражнение)\P08\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache

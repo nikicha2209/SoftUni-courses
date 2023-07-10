@@ -1,0 +1,5 @@
+D:\visual studio projects\softuni\basics\P05 - по-сложни проверки\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+D:\visual studio projects\softuni\basics\P05 - по-сложни проверки\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\softuni\basics\P05 - по-сложни проверки\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+D:\visual studio projects\softuni\basics\P05 - по-сложни проверки\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+D:\visual studio projects\softuni\basics\P05 - по-сложни проверки\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
