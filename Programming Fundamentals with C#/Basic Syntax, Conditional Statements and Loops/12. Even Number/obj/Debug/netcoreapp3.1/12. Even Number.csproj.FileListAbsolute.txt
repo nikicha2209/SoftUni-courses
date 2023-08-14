@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

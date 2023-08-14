@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp3.1\02. Character Multiplier.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp3.1\02. Character Multiplier.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.exe
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.deps.json
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.json
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.dll
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.dll
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\softuni\fundamentals c#\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.genruntimeconfig.cache

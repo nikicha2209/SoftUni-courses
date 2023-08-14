@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+C:\softuni\fundamentals c#\1. Train\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+C:\softuni\fundamentals c#\1. Train\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

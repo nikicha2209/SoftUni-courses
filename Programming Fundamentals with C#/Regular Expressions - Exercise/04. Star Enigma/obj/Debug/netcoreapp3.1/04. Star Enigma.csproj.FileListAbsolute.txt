@@ -1,0 +1,13 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+C:\softuni\fundamentals c#\Arrays\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache

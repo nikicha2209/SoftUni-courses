@@ -1,0 +1,28 @@
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.genruntimeconfig.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\bin\Debug\netcoreapp3.1\13. Debug the Code.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops\13. Debug the Code\obj\Debug\netcoreapp3.1\13. Debug the Code.genruntimeconfig.cache

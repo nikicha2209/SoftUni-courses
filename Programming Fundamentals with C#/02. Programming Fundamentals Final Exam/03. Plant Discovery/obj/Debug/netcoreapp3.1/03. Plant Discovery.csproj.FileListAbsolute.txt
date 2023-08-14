@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\softuni\fundamentals c#\Methods\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache

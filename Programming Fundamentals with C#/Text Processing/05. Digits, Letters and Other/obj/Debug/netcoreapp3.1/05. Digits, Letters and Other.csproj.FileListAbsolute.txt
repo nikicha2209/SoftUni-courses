@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+C:\softuni\fundamentals c#\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.genruntimeconfig.cache

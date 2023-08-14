@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache

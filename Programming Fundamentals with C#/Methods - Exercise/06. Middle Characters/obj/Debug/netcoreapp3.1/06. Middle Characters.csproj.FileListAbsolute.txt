@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

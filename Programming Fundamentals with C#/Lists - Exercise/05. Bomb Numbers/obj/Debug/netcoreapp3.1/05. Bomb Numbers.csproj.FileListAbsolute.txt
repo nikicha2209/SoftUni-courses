@@ -1,0 +1,28 @@
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\softuni\fundamentals c#\1. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache

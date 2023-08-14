@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.genruntimeconfig.cache

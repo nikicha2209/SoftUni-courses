@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.exe
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.deps.json
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.json
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+C:\softuni\fundamentals c#\Objects and Classes\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.genruntimeconfig.cache

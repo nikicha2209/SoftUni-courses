@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\Objects and Classes - Exercise\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+C:\softuni\fundamentals c#\Arrays\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.genruntimeconfig.cache

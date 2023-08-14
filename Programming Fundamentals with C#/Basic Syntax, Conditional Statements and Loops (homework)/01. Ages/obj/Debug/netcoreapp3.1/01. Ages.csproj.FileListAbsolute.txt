@@ -1,0 +1,28 @@
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

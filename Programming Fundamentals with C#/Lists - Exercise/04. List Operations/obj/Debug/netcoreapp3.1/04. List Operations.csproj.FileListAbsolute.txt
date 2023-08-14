@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+C:\softuni\fundamentals c#\1. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\softuni\fundamentals c#\1. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.genruntimeconfig.cache

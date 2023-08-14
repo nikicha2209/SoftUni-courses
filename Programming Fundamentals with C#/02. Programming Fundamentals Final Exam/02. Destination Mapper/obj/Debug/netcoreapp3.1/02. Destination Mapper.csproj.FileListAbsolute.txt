@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\02. Programming Fundamentals Final Exam\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

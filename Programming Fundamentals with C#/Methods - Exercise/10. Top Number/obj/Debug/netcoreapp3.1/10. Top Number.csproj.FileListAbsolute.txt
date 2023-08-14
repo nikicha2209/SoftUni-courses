@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

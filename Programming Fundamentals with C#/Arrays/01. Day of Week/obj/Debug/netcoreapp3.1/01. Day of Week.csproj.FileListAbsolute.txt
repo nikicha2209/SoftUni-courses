@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\softuni\fundamentals c#\Arrays\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

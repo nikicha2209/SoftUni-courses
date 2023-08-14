@@ -1,0 +1,14 @@
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.AssemblyReference.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+C:\softuni\Programming Fundamentals with C# - labs and exersices\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\softuni\fundamentals c#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+C:\softuni\fundamentals c#\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache

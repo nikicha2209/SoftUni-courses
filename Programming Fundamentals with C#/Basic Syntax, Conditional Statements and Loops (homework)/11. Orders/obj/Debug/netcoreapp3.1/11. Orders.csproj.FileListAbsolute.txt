@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.exe
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.deps.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.dll
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.pdb
+C:\softuni\fundamentals c#\Basic Syntax, Conditional Statements and Loops (homework)\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\softuni\fundamentals c#\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.genruntimeconfig.cache
