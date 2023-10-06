@@ -1,0 +1,18 @@
+article{
+    background-color: #336699;
+    border: 2px solid #336699;
+    border-radius: 16px;
+    color:white;
+    font-size:18px;
+    width: 820px;
+    padding: 2em;
+    margin:3em;
+    font-style:Georgia, serif;
+    line-height: 1.5;
+    text-indent: 40px;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+}
+
