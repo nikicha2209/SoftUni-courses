@@ -1,0 +1,37 @@
+aside {
+    position: absolute;
+    top: 16.2%;
+    right: 23%;
+    width: 5em;
+}
+
+.site {
+    margin: 4em 11em;
+}
+
+.site-content {
+    width: 51em;
+}
+
+.site-header {
+    position: relative;
+}
+
+.main-nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.article-header {
+    position: relative;
+    padding-right: 10em;
+}
+
+img.align-right {
+    float: right;
+}
+
+img.align-left {
+    float: left;
+}

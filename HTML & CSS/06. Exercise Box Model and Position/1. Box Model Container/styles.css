@@ -1,0 +1,16 @@
+body{
+    background-color: #778899;
+}
+
+p{
+    border: 2px solid #e6eaef;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #0f4069;
+    color:white;
+    width: 300px;
+    margin: 2em;
+    padding: 20px;
+}

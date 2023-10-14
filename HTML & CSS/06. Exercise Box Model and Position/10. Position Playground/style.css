@@ -1,0 +1,36 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css);
+.viewport{
+    height: 50vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.viewport:first-child{
+    background: rgb(26,97,159);
+    background: linear-gradient(90deg, rgba(26,97,159,1) 0%, rgba(35,120,158,1) 31%, rgba(46,149,160,1) 45%, rgba(0,212,255,1) 87%);
+}
+
+.viewport:nth-child(2){
+    background: rgb(168,51,120);
+    background: linear-gradient(90deg, rgba(168,51,120,1) 0%, rgba(178,69,97,1) 31%, rgba(197,105,51,1) 45%, rgba(208,125,26,1) 87%);
+}
+
+.card{
+    display:block;
+    position: absolute;
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card img{
+    width: 100%;
+}
+
+i{
+    color:white;
+    position: absolute;
+    bottom: 6px;
+    right: 4px;
+}
