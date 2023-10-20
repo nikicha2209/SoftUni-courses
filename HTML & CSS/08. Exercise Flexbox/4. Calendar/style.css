@@ -1,0 +1,56 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    html {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body{
+        padding: 2em;
+    }
+
+    span{
+        border: 1px solid black;
+        padding: 1em 0.5em;
+        flex-grow: 1;
+        padding-bottom: 4em;
+        text-align: center;
+    }
+
+    .container, section{
+        display:flex;
+        flex-wrap:wrap;
+    }
+
+    .container {
+        max-width: 65vw;
+    }
+
+    .notes{
+        flex-direction: column;
+       
+    }
+
+    .workweek,
+.weekend {
+    flex-basis: 100%;
+    padding-bottom: 4em;
+}
+
+.workweek,
+.weekend,
+section.notes > span {
+    font-weight: 500;
+}
+
+section.notes > span {
+    padding: 2em;
+    padding-top: 0.5em;
+}
+
+
+
+    

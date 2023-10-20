@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    margin: 0;
+    display:flex;
+    flex-wrap: wrap;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    border-bottom:2px solid black;
+    padding-bottom: 0.5em;
+    padding-left: 0.8em;
+}
+
+header{
+    flex-grow: 1;
+}
+
+main > h2{
+    font-size: 25px;
+    font-weight: 400;
+    padding-left: 1em;
+}
+
+
+p{
+    padding-bottom: 0.2em;
+    padding-left: 1.5em;
+    font-size: 17px
+}
+
+footer{
+    background-color: rgb(102, 102, 102);
+    flex-grow: 1;
+    color: rgb(255, 255, 255);
+    position: sticky;
+}
+
+footer p{
+    height: auto;
+}

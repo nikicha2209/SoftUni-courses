@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ddd;
+    padding: 4em;
+    display: flex;
+    justify-content: center;
+}
+
+
+.gallery{
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 50em;
+ }
+
+
+.gallery ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2em;
+}
+
+.gallery li{
+    flex: 1 1 200px;
+    display:flex;
+    list-style:none;
+    align-items: center;
+    border: 6px solid #000;
+    background-color: #fff;
+    padding: 3em 0.8em;
+    box-shadow: 
+    0 0 1.2em 0.2em rgba(0, 0, 0, 0.4),
+    0 0 0.3em 0.1em rgba(0, 0, 0, 0.4) inset;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+    gap: 2em;
+}
