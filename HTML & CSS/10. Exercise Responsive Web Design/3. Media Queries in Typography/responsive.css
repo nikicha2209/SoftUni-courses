@@ -1,0 +1,29 @@
+@media screen and (width>500){
+    body{
+        font-size: 14;
+    }    
+}
+
+@media screen and (width>600){
+    body{
+        font-size: 16;
+    }    
+}
+
+@media screen and (width>800){
+    body{
+        font-size: 18;
+    }    
+}
+
+@media screen and (width>1300){
+    body{
+        font-size: 21;
+    }    
+}
+
+@media screen and (width>1800){
+    body{
+        font-size: 23;
+    }    
+}

@@ -1,0 +1,51 @@
+
+body{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    
+}
+
+header, main, aside, footer{
+    background-color: #b5d8ff;
+    border-radius: 0.2em;
+}
+
+header, footer{
+    flex-basis: 100%;
+}
+
+header{
+    display: flex; 
+    order: 1;
+    align-items: center;
+    vertical-align: middle;
+}
+
+header ul{
+    display: flex;
+    gap: 5em;
+    list-style-type: none;
+}
+
+aside{
+    flex: 2 1 10rem;
+    order:2;
+}
+
+main {
+    flex: 8 1 20rem; 
+    order: 3;
+}
+
+footer{
+    order:4;
+}
+
+ ul{
+    list-style-type: none;  
+}
+
+aside ul li a{
+    text-decoration: none;
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width:550px) {
+    table:first-child{
+        visibility: hidden;
+    }   
+
+    .responsive{
+        visibility: visible;
+    }
+
+    .responsive tr:nth-child(1),
+    .responsive tr:nth-child(2),
+    .responsive tr:nth-child(3){
+        background-color: #f1f1f1;
+    }
+    
+    .responsive tr:nth-child(4),
+    .responsive tr:nth-child(5),
+    .responsive tr:nth-child(6){
+        background-color: #ffffff;
+    }
+
+    .responsive th{
+        font-weight: bold;
+        color:black;
+        text-align: left;
+        
+    }
+
+    .responsive td{
+        color:black;
+        align-items:flex-start
+    }
+
+    .responsive tr{
+        border: 1px solid black;
+        
+    }
+
+    
+
+}

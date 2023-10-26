@@ -1,0 +1,42 @@
+
+body{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    
+}
+
+header, main, aside, footer{
+    background-color: #b5d8ff;
+    border-radius: 0.2em;
+}
+
+header, footer{
+    flex-basis: 100%;
+}
+
+header{
+    order: 1;
+}
+
+aside{
+    flex: 2 1 10rem;
+    order:2;
+}
+
+main{
+    flex: 8 1 70rem;
+    order:3;
+}
+
+footer{
+    order:4;
+}
+
+aside ul{
+    list-style-type: none;  
+}
+
+aside ul li a{
+    text-decoration: none;
+}
