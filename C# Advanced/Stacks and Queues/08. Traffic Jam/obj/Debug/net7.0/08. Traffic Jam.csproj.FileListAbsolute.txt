@@ -1,0 +1,15 @@
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\bin\Debug\net7.0\08. Traffic Jam.exe
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\bin\Debug\net7.0\08. Traffic Jam.deps.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\bin\Debug\net7.0\08. Traffic Jam.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\bin\Debug\net7.0\08. Traffic Jam.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\bin\Debug\net7.0\08. Traffic Jam.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.csproj.AssemblyReference.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\refint\08. Traffic Jam.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\08. Traffic Jam.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\08. Traffic Jam\obj\Debug\net7.0\ref\08. Traffic Jam.dll

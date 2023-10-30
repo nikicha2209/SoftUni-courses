@@ -1,0 +1,15 @@
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\bin\Debug\net7.0\01. Reverse a String.exe
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\bin\Debug\net7.0\01. Reverse a String.deps.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\bin\Debug\net7.0\01. Reverse a String.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\bin\Debug\net7.0\01. Reverse a String.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\bin\Debug\net7.0\01. Reverse a String.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.csproj.AssemblyReference.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\refint\01. Reverse a String.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\01. Reverse a String.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\01. Reverse a String\obj\Debug\net7.0\ref\01. Reverse a String.dll

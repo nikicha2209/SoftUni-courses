@@ -1,0 +1,15 @@
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\bin\Debug\net7.0\07. Hot Potato.exe
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\bin\Debug\net7.0\07. Hot Potato.deps.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\bin\Debug\net7.0\07. Hot Potato.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\bin\Debug\net7.0\07. Hot Potato.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\bin\Debug\net7.0\07. Hot Potato.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.csproj.AssemblyReference.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\refint\07. Hot Potato.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\07. Hot Potato.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\07. Hot Potato\obj\Debug\net7.0\ref\07. Hot Potato.dll

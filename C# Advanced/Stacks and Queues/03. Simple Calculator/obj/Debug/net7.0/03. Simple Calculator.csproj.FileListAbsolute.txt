@@ -1,0 +1,15 @@
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.exe
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.deps.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.csproj.AssemblyReference.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\refint\03. Simple Calculator.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\03. Simple Calculator\obj\Debug\net7.0\ref\03. Simple Calculator.dll

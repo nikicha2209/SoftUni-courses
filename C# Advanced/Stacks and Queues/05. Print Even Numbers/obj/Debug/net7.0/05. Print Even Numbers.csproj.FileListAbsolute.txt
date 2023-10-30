@@ -1,0 +1,15 @@
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.exe
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.deps.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.csproj.AssemblyReference.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\refint\05. Print Even Numbers.dll
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.pdb
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Stacks and Queues\05. Print Even Numbers\obj\Debug\net7.0\ref\05. Print Even Numbers.dll
