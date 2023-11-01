@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
       "projectName": "03. Maximum and Minimum Element",
-      "projectPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

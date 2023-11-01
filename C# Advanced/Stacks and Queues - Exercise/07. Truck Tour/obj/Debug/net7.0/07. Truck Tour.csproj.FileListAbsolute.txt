@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net7.0\07. Truck Tour.exe
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net7.0\07. Truck Tour.deps.json
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net7.0\07. Truck Tour.runtimeconfig.json
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net7.0\07. Truck Tour.dll
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net7.0\07. Truck Tour.pdb
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.AssemblyInfo.cs
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.dll
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\refint\07. Truck Tour.dll
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.pdb
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\07. Truck Tour.genruntimeconfig.cache
+C:\Users\HP\Desktop\GitHub\SoftUni-courses\C# Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net7.0\ref\07. Truck Tour.dll

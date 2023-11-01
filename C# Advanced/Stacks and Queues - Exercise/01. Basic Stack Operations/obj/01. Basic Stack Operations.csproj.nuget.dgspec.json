@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj": {}
+    "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj": {
+    "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
         "projectName": "01. Basic Stack Operations",
-        "projectPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\GitHub\\SoftUni-courses\\C# Advanced\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
