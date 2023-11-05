@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net7.0\02. Sum Matrix Columns.exe
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net7.0\02. Sum Matrix Columns.deps.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net7.0\02. Sum Matrix Columns.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net7.0\02. Sum Matrix Columns.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net7.0\02. Sum Matrix Columns.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\refint\02. Sum Matrix Columns.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\02. Sum Matrix Columns.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net7.0\ref\02. Sum Matrix Columns.dll

@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net7.0\01. Sum Matrix Elements.exe
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net7.0\01. Sum Matrix Elements.deps.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net7.0\01. Sum Matrix Elements.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net7.0\01. Sum Matrix Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net7.0\01. Sum Matrix Elements.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\refint\01. Sum Matrix Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\01. Sum Matrix Elements.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net7.0\ref\01. Sum Matrix Elements.dll
