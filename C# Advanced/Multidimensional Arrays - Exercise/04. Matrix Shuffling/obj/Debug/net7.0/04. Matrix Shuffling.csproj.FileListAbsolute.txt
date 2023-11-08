@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.exe
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.deps.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\refint\04. Matrix Shuffling.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net7.0\ref\04. Matrix Shuffling.dll

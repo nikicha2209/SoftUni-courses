@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\bin\Debug\net7.0\07. Knight Game.exe
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\bin\Debug\net7.0\07. Knight Game.deps.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\bin\Debug\net7.0\07. Knight Game.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\bin\Debug\net7.0\07. Knight Game.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\bin\Debug\net7.0\07. Knight Game.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\refint\07. Knight Game.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\07. Knight Game.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\07. Knight Game\obj\Debug\net7.0\ref\07. Knight Game.dll

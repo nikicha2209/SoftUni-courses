@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net7.0\05. Snake Moves.exe
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net7.0\05. Snake Moves.deps.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net7.0\05. Snake Moves.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net7.0\05. Snake Moves.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net7.0\05. Snake Moves.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\refint\05. Snake Moves.dll
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.pdb
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\05. Snake Moves.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net7.0\ref\05. Snake Moves.dll
