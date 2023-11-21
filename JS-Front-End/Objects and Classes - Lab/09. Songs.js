@@ -8,22 +8,21 @@ function songs(input) {
         }
     }
     let songs = [];
-    let n = input[0];
+    let n = input.shift();
+    let typeSong = input.pop();
 
-    for (let index = 1; index <= n; index++) {
-        let currentLine = input[index];
-        let tokens = currentLine.split("_");
-        [type, name, time] = tokens;
+    for (let index = 0; index < n; index++) {
+        let [type, name, time] = input[index].split("_") ;
         let song = new Song(type, name, time);
         songs.push(song);
     }
 
-    if (input[n + 1] == "all") {
+    if (typeSong == "all") {
         songs.forEach(song => {
             console.log(song.name);
         });
     } else {
-        let filtered = songs.filter((song) => song.type==input[n+1]);
+        let filtered = songs.filter((song) => song.type==typeSong);
 
         filtered.forEach(song=>{
             console.log(song.name);
