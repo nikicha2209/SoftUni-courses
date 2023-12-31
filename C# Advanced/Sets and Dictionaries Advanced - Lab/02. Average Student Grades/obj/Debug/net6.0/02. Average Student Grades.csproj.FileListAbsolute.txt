@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.exe
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.deps.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\refint\02. Average Student Grades.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\ref\02. Average Student Grades.dll

@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.exe
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.deps.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\refint\06. Record Unique Names.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\ref\06. Record Unique Names.dll
