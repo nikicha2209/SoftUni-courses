@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll

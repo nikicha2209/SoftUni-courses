@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll

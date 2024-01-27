@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

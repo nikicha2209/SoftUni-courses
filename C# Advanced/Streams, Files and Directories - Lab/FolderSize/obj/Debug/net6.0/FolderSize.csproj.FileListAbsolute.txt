@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

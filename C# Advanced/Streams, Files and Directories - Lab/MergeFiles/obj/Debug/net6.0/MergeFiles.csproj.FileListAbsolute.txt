@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll
