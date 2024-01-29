@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

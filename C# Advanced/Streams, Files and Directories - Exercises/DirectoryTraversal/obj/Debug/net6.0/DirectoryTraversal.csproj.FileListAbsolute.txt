@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\refint\DirectoryTraversal.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\DirectoryTraversal\obj\Debug\net6.0\ref\DirectoryTraversal.dll

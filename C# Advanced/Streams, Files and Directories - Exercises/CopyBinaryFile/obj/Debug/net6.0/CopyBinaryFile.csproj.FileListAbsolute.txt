@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll

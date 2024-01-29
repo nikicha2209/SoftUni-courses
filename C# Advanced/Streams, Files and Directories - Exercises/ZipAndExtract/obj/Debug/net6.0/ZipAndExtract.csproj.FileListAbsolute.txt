@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.exe
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.deps.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\refint\ZipAndExtract.dll
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.pdb
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\net6.0\ref\ZipAndExtract.dll
