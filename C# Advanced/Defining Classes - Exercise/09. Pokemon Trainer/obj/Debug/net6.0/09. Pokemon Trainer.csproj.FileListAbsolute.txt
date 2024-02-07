@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\refint\09. Pokemon Trainer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\net6.0\ref\09. Pokemon Trainer.dll

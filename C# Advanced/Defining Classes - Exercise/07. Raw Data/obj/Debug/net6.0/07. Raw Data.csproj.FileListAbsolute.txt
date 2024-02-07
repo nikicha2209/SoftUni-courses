@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\refint\07. Raw Data.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\ref\07. Raw Data.dll

@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\refint\04. Opinion Poll.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\ref\04. Opinion Poll.dll
