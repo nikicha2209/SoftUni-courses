@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\refint\02. Generic Box of Integer.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\ref\02. Generic Box of Integer.dll

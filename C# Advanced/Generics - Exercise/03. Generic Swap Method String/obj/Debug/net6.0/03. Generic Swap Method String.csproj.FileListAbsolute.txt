@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\refint\03. Generic Swap Method String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\03. Generic Swap Method String\obj\Debug\net6.0\ref\03. Generic Swap Method String.dll

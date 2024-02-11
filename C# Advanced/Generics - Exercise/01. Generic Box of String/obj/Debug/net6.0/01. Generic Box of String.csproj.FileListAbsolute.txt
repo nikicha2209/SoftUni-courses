@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\refint\01. Generic Box of String.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\net6.0\ref\01. Generic Box of String.dll
