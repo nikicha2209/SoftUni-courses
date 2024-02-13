@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\net6.0\03. ComparableBook.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\net6.0\03. ComparableBook.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\net6.0\03. ComparableBook.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\net6.0\03. ComparableBook.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\net6.0\03. ComparableBook.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\refint\03. ComparableBook.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\03. ComparableBook.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\net6.0\ref\03. ComparableBook.dll
