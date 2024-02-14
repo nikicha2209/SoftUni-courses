@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\net6.0\02. Array Creator.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\net6.0\02. Array Creator.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\net6.0\02. Array Creator.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\net6.0\02. Array Creator.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\net6.0\02. Array Creator.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\refint\02. Array Creator.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\02. Array Creator.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\net6.0\ref\02. Array Creator.dll
