@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.exe
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.deps.json
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.dll
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.pdb
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.dll
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\refint\02. Car Extension.dll
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.pdb
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\ref\02. Car Extension.dll
