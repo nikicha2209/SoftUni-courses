@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.exe
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.deps.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\refint\06. Wardrobe.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\ref\06. Wardrobe.dll

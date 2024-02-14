@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.exe
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.deps.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\refint\02. Sets of Elements.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\ref\02. Sets of Elements.dll

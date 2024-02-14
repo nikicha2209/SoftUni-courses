@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.exe
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.deps.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\refint\05. Count Symbols.dll
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.pdb
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\ref\05. Count Symbols.dll
