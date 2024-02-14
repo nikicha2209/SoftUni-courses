@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\03. Mail Client.exe
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\03. Mail Client.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\03. Mail Client.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\03. Mail Client.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\03. Mail Client.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\refint\03. Mail Client.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\03. Mail Client.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\ref\03. Mail Client.dll

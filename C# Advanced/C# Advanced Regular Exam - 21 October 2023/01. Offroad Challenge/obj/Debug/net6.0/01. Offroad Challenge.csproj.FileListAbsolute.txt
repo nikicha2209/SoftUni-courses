@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.exe
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\refint\01. Offroad Challenge.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\01. Offroad Challenge\obj\Debug\net6.0\ref\01. Offroad Challenge.dll

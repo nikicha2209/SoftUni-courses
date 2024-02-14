@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.exe
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\refint\02. Fishing Competition.dll
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\C# Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\ref\02. Fishing Competition.dll
