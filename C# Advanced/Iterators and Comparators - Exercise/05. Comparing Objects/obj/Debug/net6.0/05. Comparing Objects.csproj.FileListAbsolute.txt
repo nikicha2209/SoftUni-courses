@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\refint\05. Comparing Objects.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\net6.0\ref\05. Comparing Objects.dll

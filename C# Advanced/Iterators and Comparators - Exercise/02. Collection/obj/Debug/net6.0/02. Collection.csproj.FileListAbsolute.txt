@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\net6.0\02. Collection.exe
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\net6.0\02. Collection.deps.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\net6.0\02. Collection.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\net6.0\02. Collection.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\net6.0\02. Collection.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\refint\02. Collection.dll
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.pdb
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\02. Collection.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\net6.0\ref\02. Collection.dll
