@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.exe
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.deps.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\refint\09. Predicate Party!.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\ref\09. Predicate Party!.dll

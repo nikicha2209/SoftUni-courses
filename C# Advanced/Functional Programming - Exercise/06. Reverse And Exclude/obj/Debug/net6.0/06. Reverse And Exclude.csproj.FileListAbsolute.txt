@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.exe
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.deps.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\refint\06. Reverse And Exclude.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\ref\06. Reverse And Exclude.dll

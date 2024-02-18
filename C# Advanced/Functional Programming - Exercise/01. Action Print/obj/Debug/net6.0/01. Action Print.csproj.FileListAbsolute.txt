@@ -1,0 +1,14 @@
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+C:\softuni\C# Advanced\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll
