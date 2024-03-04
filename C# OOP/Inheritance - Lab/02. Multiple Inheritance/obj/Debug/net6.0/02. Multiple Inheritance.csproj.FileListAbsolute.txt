@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\02. Multiple Inheritance.exe
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\02. Multiple Inheritance.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\02. Multiple Inheritance.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\02. Multiple Inheritance.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\net6.0\02. Multiple Inheritance.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\refint\02. Multiple Inheritance.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\02. Multiple Inheritance.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\net6.0\ref\02. Multiple Inheritance.dll
