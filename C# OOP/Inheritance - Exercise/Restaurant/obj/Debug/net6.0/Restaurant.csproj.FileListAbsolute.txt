@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\bin\Debug\net6.0\Restaurant.exe
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\bin\Debug\net6.0\Restaurant.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Inheritance - Exercise\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll
