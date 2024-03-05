@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\net6.0\03. Validation.exe
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\net6.0\03. Validation.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\net6.0\03. Validation.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\net6.0\03. Validation.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\net6.0\03. Validation.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\refint\03. Validation.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\03. Validation.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\net6.0\ref\03. Validation.dll
