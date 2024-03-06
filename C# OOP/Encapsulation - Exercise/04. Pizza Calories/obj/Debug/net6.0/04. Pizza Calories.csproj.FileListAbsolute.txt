@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.exe
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\refint\04. Pizza Calories.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\net6.0\ref\04. Pizza Calories.dll

@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.exe
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\refint\03. Shopping Spree.dll
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\ref\03. Shopping Spree.dll
