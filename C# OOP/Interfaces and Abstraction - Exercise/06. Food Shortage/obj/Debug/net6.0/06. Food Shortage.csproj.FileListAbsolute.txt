@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.exe
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\refint\06. Food Shortage.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\net6.0\ref\06. Food Shortage.dll

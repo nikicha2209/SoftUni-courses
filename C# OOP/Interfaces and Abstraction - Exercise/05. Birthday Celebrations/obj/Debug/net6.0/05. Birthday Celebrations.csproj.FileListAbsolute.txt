@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.exe
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\refint\05. Birthday Celebrations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\net6.0\ref\05. Birthday Celebrations.dll

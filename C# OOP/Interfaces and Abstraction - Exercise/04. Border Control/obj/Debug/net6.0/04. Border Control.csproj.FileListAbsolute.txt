@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\net6.0\04. Border Control.exe
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\net6.0\04. Border Control.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\net6.0\04. Border Control.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\net6.0\04. Border Control.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\net6.0\04. Border Control.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\refint\04. Border Control.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\04. Border Control.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\net6.0\ref\04. Border Control.dll
