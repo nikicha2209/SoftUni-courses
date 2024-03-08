@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.exe
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\net6.0\02. Cars.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\refint\02. Cars.dll
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\02. Cars.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\net6.0\ref\02. Cars.dll
