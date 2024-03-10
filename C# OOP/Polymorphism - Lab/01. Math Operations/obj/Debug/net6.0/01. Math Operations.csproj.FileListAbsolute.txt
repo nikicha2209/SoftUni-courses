@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\net6.0\01. Math Operations.exe
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\net6.0\01. Math Operations.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\net6.0\01. Math Operations.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\net6.0\01. Math Operations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\net6.0\01. Math Operations.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\refint\01. Math Operations.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\01. Math Operations.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\net6.0\ref\01. Math Operations.dll
