@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.exe
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\refint\01. Vehicles.dll
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\ref\01. Vehicles.dll
