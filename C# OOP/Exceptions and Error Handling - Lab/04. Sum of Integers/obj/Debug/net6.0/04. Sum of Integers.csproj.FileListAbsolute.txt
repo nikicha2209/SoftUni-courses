@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.exe
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\refint\04. Sum of Integers.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\net6.0\ref\04. Sum of Integers.dll

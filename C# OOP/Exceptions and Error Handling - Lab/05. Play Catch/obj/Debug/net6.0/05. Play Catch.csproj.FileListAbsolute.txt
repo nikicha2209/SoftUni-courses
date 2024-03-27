@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.exe
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\refint\05. Play Catch.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\05. Play Catch\obj\Debug\net6.0\ref\05. Play Catch.dll

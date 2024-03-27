@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.exe
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\refint\06. Money Transactions.dll
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\net6.0\ref\06. Money Transactions.dll
