@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.exe
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\refint\06. Code Tracker.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\net6.0\ref\06. Code Tracker.dll

@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\net6.0\04. Collector.exe
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\net6.0\04. Collector.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\net6.0\04. Collector.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\net6.0\04. Collector.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\net6.0\04. Collector.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\refint\04. Collector.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\04. Collector.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\net6.0\ref\04. Collector.dll

@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.exe
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\refint\03. Mission Private Impossible.dll
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\net6.0\ref\03. Mission Private Impossible.dll
