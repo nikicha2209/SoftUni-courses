@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.exe
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Lab\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
