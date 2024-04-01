@@ -1,0 +1,11 @@
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\bin\Debug\net6.0\Database.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\bin\Debug\net6.0\Database.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\bin\Debug\net6.0\Database.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\refint\Database.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\Database.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\Database\obj\Debug\net6.0\ref\Database.dll

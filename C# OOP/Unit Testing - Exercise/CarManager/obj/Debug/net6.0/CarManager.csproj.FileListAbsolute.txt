@@ -1,0 +1,11 @@
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\programming\softuni\C# Advanced\C# OOP\Unit Testing - Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll
