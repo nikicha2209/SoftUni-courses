@@ -1,0 +1,14 @@
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Exam Regular - 09 December 2023\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
