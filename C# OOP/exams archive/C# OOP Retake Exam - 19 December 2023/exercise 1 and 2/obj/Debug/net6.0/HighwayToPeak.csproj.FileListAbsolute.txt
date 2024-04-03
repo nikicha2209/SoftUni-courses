@@ -1,0 +1,28 @@
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.exe
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\refint\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam – 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\ref\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\refint\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.exe
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.deps.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.dll
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\bin\Debug\net6.0\HighwayToPeak.pdb
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+C:\programming\softuni\C# Advanced\C# OOP\C# OOP Retake Exam 19 December 2023\exercise 1 and 2\obj\Debug\net6.0\ref\HighwayToPeak.dll
