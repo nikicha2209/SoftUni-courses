@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\linq\\musichub\\data\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\StartUp.cs",
+              "RelativeDocumentMoniker": "MusicHub\\StartUp.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\StartUp.cs",
+              "RelativeToolTip": "MusicHub\\StartUp.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwGUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:45:50.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "MusicHub\\Initializer\\DbInitializer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:41:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SongPerformer.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\SongPerformer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\SongPerformer.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\SongPerformer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\SongPerformer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:33:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Writer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Writer.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Writer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Writer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:31:53.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Producer.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Producer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Producer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:28:08.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Performer.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Performer.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Performer.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Performer.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Performer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:18:30.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Album.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Album.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Album.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:14:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Enums\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:08:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Song.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Models\\Song.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Models\\Song.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:04:32.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicHubDbContext.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\MusicHubDbContext.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\MusicHubDbContext.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\MusicHubDbContext.cs",
+              "RelativeToolTip": "MusicHub\\Data\\MusicHubDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:03:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "MusicHub\\Data\\Configuration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\LINQ\\MusicHub\\Data\\Configuration.cs",
+              "RelativeToolTip": "MusicHub\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:02:54.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
