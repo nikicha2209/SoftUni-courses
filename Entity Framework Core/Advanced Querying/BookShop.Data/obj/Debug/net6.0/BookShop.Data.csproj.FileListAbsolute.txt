@@ -1,0 +1,15 @@
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.deps.json
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Models.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Models.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.AssemblyReference.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfo.cs
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.1BDD37B1.Up2Date
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\refint\BookShop.Data.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Data\obj\Debug\net6.0\ref\BookShop.Data.dll

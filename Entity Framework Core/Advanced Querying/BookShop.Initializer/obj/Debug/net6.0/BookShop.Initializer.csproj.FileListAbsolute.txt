@@ -1,0 +1,17 @@
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.deps.json
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.AssemblyReference.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfo.cs
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.B29D491C.Up2Date
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\refint\BookShop.Initializer.dll
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.pdb
+C:\programming\softuni\C# DB\Entity Framework Core\Advanced Querying\BookShop.Initializer\obj\Debug\net6.0\ref\BookShop.Initializer.dll
