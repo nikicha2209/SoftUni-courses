@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\productshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\productshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\productshop\\models\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Datasets\\users.json",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\users.json",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Datasets\\users.json",
+              "RelativeToolTip": "ProductShop\\Datasets\\users.json",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAowBkBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T18:39:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductShop.csproj",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\ProductShop.csproj",
+              "RelativeDocumentMoniker": "ProductShop\\ProductShop.csproj",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\ProductShop.csproj",
+              "RelativeToolTip": "ProductShop\\ProductShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T18:36:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductShopContext.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\ProductShopContext.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeToolTip": "ProductShop\\Data\\ProductShopContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:21:43.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\Configuration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Data\\Configuration.cs",
+              "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:21:32.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Category.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Models\\Category.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:59:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:58:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryProduct.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Models\\CategoryProduct.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\CategoryProduct.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\ProductShop\\Models\\CategoryProduct.cs",
+              "RelativeToolTip": "ProductShop\\Models\\CategoryProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:59:49.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

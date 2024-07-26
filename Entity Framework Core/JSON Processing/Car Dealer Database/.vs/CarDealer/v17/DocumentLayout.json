@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\dtos\\import\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni\\c# db\\entity framework core\\json processing\\car dealer database\\cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAkwPcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:00:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\DTOs\\Import\\CarDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\CarDTO.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\DTOs\\Import\\CarDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:48:10.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartCar.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\PartCar.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\PartCar.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\PartCar.cs",
+              "RelativeToolTip": "CarDealer\\Models\\PartCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:47:44.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Part.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Part.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Part.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:47:11.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:43:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cars.json",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Datasets\\cars.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\cars.json",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Datasets\\cars.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\cars.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T11:38:33.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Supplier.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# DB\\Entity Framework Core\\JSON Processing\\Car Dealer Database\\CarDealer\\Models\\Supplier.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:59:27.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
