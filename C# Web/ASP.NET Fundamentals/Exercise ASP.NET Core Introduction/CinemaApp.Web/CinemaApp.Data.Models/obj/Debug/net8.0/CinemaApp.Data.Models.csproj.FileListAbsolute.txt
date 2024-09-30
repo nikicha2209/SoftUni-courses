@@ -1,0 +1,11 @@
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.deps.json
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.dll
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfoInputs.cache
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfo.cs
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.dll
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\refint\CinemaApp.Data.Models.dll
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\programming\softuni\C# Web\ASP.NET Fundamentals\Exercise ASP.NET Core Introduction\CinemaApp.Web\CinemaApp.Data.Models\obj\Debug\net8.0\ref\CinemaApp.Data.Models.dll

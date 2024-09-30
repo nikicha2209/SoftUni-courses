@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5655EB37-2D22-4CCD-86EC-F3DE2A24D98D}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.data\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5655EB37-2D22-4CCD-86EC-F3DE2A24D98D}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B503907-7657-452F-9657-DED383C6FA75}|CinemaApp.Common\\CinemaApp.Common.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B503907-7657-452F-9657-DED383C6FA75}|CinemaApp.Common\\CinemaApp.Common.csproj|solutionrelative:cinemaapp.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A917CC-AE61-4D78-933A-66CFBD9D105A}|CInemaApp.Web.ViewModels\\CInemaApp.Web.ViewModels.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web.viewmodels\\movie\\addmovieinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A917CC-AE61-4D78-933A-66CFBD9D105A}|CInemaApp.Web.ViewModels\\CInemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\movie\\addmovieinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952DD1F0-31D3-47E5-8484-9D17B232B3CF}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952DD1F0-31D3-47E5-8484-9D17B232B3CF}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|solutionrelative:cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5655EB37-2D22-4CCD-86EC-F3DE2A24D98D}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5655EB37-2D22-4CCD-86EC-F3DE2A24D98D}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952DD1F0-31D3-47E5-8484-9D17B232B3CF}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.data.models\\cinemaapp.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{952DD1F0-31D3-47E5-8484-9D17B232B3CF}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|solutionrelative:cinemaapp.data.models\\cinemaapp.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B503907-7657-452F-9657-DED383C6FA75}|CinemaApp.Common\\CinemaApp.Common.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B503907-7657-452F-9657-DED383C6FA75}|CinemaApp.Common\\CinemaApp.Common.csproj|solutionrelative:cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\programming\\softuni\\c# web\\asp.net fundamentals\\exercise asp.net core introduction\\cinemaapp.web\\cinemaapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DBF173-0241-4D9B-AA29-D0916C92404F}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMovieInputModel.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CInemaApp.Web.ViewModels\\Movie\\AddMovieInputModel.cs",
+              "RelativeDocumentMoniker": "CInemaApp.Web.ViewModels\\Movie\\AddMovieInputModel.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CInemaApp.Web.ViewModels\\Movie\\AddMovieInputModel.cs",
+              "RelativeToolTip": "CInemaApp.Web.ViewModels\\Movie\\AddMovieInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:24:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:11:24.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:00:58.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityValidationConstants.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Common\\EntityValidationConstants.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Common\\EntityValidationConstants.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Common\\EntityValidationConstants.cs",
+              "RelativeToolTip": "CinemaApp.Common\\EntityValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:18:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:16:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:06:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:20:37.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:52:30.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:21:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240930155722_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Migrations\\20240930155722_Initial-Migration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:57:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240930155518_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Migrations\\20240930155518_Initial-Migration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAA4AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:55:19.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CinemaApp.Data.Models",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+              "RelativeDocumentMoniker": "CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+              "RelativeToolTip": "CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T15:52:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data.Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data.Models\\Movie.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data.Models\\Movie.cs",
+              "RelativeToolTip": "CinemaApp.Data.Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:08:31.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\CinemaDbContext.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\CinemaDbContext.cs",
+              "RelativeToolTip": "CinemaApp.Data\\CinemaDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:14:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Common\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Common\\ApplicationConstants.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Common\\ApplicationConstants.cs",
+              "RelativeToolTip": "CinemaApp.Common\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:03:38.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "CinemaApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T15:49:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240930154818_InitialMigration.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Migrations\\20240930154818_InitialMigration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:48:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Program.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Program.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:36:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:58:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:52:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:52:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:52:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:37:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\programming\\softuni\\C# Web\\ASP.NET Fundamentals\\Exercise ASP.NET Core Introduction\\CinemaApp.Web\\CinemaApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:53:02.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
